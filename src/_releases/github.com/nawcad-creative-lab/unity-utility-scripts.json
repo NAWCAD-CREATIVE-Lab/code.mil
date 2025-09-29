@@ -8,9 +8,9 @@
   },
   "status": "Production",
   "vcs": "git",
-  "downloadURL": "https://github.com/NAWCAD-CREATIVE-Lab/code.mil/tree/utility-scripts",
-  "repositoryURL": "https://github.com/NAWCAD-CREATIVE-Lab/code.mil/tree/utility-scripts",
-  "homepageURL": "https://github.com/NAWCAD-CREATIVE-Lab/code.mil/tree/utility-scripts",
+  "downloadURL": "https://github.com/NAWCAD-CREATIVE-Lab/Unity-Utility-Scripts/archive/refs/heads/main.zip",
+  "repositoryURL": "https://github.com/NAWCAD-CREATIVE-Lab/Unity-Utility-Scripts.git",
+  "homepageURL": "https://github.com/NAWCAD-CREATIVE-Lab/Unity-Utility-Scripts",
   "languages": ["C#"],
   "partners": [],
   "permissions": {
